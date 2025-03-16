@@ -1,5 +1,5 @@
 # 🚀 About Me:
-<br>I am a freelance developer specializing in Python, MySQL, web development, and Roblox Lua scripting. I enjoy creating efficient backend systems, designing frontend portfolios, and developing games in Roblox Studio.<br><br>💼 Offering freelance services in backend development, database management, web development, and game scripting<br>🛠️ Experienced in Python, MySQL, JavaScript, HTML/CSS, and Roblox Lua<br>🎮 Passionate about game development, automation, AI and interactive web experiences<br>🌱 Currently focusing on advanced web frameworks and game mechanics
+<br>I am a freelance developer specializing in Python, MySQL, web development, and Roblox Lua scripting. I enjoy creating efficient backend systems, designing frontend portfolios, and developing games in Roblox Studio.<br><br>💼 Offering freelance services in frontend development, database management, web development, and game scripting<br>🛠️ Experienced in Python, MySQL, JavaScript, HTML/CSS, and Roblox Lua<br>🎮 Passionate about game development, automation, AI and interactive web experiences<br>🌱 Currently focusing on advanced web frameworks and game mechanics
 
 
 ## 🌐 Socials:
